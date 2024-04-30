@@ -1,0 +1,36 @@
+.menu{
+    position: absolute;
+    right: 0;
+    padding: 0 30px;
+    top: 0;
+    display: flex;
+    border-radius: 0 20px;
+    background-color: #282829;
+    border-left: solid 1.5px #383838;
+    border-bottom: solid 1.5px #383838;
+    opacity: 75%;
+}
+
+.menu-buttom{
+    position: absolute;
+    left: 0;
+    padding: 0 30px;
+    bottom: 0;
+    display: flex;
+    border-radius: 0 20px;
+    background-color: #282829;
+    border-right: solid 1.5px #383838;
+    border-top: solid 1.5px #383838;
+    opacity: 75%;
+}
+
+.menu-link-active{
+    text-decoration: none;
+    font-weight: 500;
+    padding: 20px 20px;
+    color: #ffdb70;
+}
+.menu-link-active:hover{
+    color: #ffcc33
+    ;
+}

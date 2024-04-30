@@ -1,0 +1,38 @@
+.contact-box{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+.contact-icon-box{
+    height: 48px;
+    width: 48px;
+    background-color: #1e1e1f;
+    border-radius: 12px;
+    border: solid #383838;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact-icon{
+    width: 20px;
+}
+
+.contact-info-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.contact-title{
+    margin: 0;
+    font-size: 12px;
+    color: #d6d6d6;
+}
+
+.content-link{
+    color: #fafafa;
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.main-content{
+    margin-left: 25%;
+    padding: 20px;
+}
+
+.main-content-container{
+    background-color: #1e1e1f;
+    border-radius: 20px;
+    border: solid 1.5px #383838;
+    padding: 25px;
+    position: relative;
+    padding-top: 50px;
+}

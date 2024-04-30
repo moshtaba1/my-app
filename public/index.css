@@ -1,0 +1,19 @@
+body{
+    background-color: #121212;
+    font-family: sans-serif ;
+}
+
+h3{
+    color: #fafafa;
+}
+h4{
+    color: #fafafa;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+p{
+    color: #d6d6d6;
+}

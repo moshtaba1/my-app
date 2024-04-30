@@ -1,0 +1,24 @@
+.services-grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    padding-bottom: 50px;
+}
+
+.services-container{
+    display: flex; 
+    padding: 20px;
+    background-color: #2b2b2c;
+    gap: 20px;
+    border-radius: 14px;
+
+}
+.services-title{
+    margin-top: 0;
+}
+
+.services-img{
+    padding-top: 0;
+    width: 60px;
+    height: max-content;
+}

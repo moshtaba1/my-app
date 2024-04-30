@@ -1,0 +1,28 @@
+.about{
+    padding-bottom: 16px;
+}
+
+.title{
+    width: max-content;
+}
+
+h2{
+    color: #fafafa;
+    font-weight: 800;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.divider{
+    height: 5px;
+    width: 100%;
+    border-radius: 100px;
+    background-color: #ffdb70;
+    margin-bottom: 40px;
+
+}
+
+.about-p{
+    font-weight: 400;
+    color: #d6d6d6;
+}

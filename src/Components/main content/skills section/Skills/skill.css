@@ -1,0 +1,24 @@
+.marquee{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    justify-content: space-between;
+    background-color: #2b2b2c;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.skils-container{
+    display: flex;
+    justify-content: center;
+    background-color: #383838;
+    align-items: center;
+    padding: 17px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.skill-title{
+    color: #ffdb70;
+    padding: 0;
+    margin: 0;
+}
